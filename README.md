@@ -1,6 +1,6 @@
 <!-- Animated Header - YOUR CHOSEN GIF! -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b5/e2/4c/b5e24c889f21d3f231e8609c73102d13.gif" width="100%" alt="Fenrir - Wolf Howling Banner"/>
+  <img src="https://c.tenor.com/z2f4T0i23nIAAAAd/car.gif" width="100%" alt="Retro Car Driving Banner"/>
 </div>
 
 <br>
@@ -56,6 +56,6 @@ I'm a passionate **Data Engineer** who specializes in architecting robust data p
 <p align="center">
   <!-- This badge links to your awesome new portfolio website! -->
   <a href="https://FenrirCloud.github.io" target="_blank"><img src="https://img.shields.io/badge/Digital_Terminal-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="Portfolio Badge"></a>
-  <a href="https://www.linkedin.com/in/raad-shoumenn-172178185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:raad.shoman@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="https://www.linkedin.com/in/raad-shoumenn-172178185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="mailto:raad.shoman@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
