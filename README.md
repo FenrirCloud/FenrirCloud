@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- Animated Header - YOUR CHOSEN GIF! -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/b5/e2/4c/b5e24c889f21d3f231e8609c73102d13.gif" width="100%" alt="Fenrir - Wolf Howling Banner"/>
 </div>
 
 <br>
