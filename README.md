@@ -1,6 +1,6 @@
-<!-- Animated Header - YOUR CHOSEN GIF! -->
+<!-- Animated Header - Hosted on GitHub for reliability -->
 <div align="center">
-  <img src="[https://c.tenor.com/z2f4T0i23nIAAAAd/car.gif" width="100%" alt="Retro Car Driving Banner](https://github.com/FenrirCloud/FenrirCloud/blob/main/banner.gif?raw=true)"/>
+  <img src="https://github.com/FenrirCloud/FenrirCloud/blob/main/banner.gif?raw=true" width="100%" alt="Retro Car Driving Banner"/>
 </div>
 
 <br>
