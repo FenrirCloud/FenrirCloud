@@ -16,7 +16,6 @@ I'm a passionate **Data Engineer** who specializes in architecting robust data p
 
 -   🔭 I’m currently architecting a **real-time analytics pipeline for gaming data** to predict match outcomes.
 -   🌱 I’m constantly diving deeper into the world of **Machine Learning and AI**.
--   💬 Ask me about **Python, SQL, GCP, or why my favorite game character is the best.**
 -   ⚡ Fun fact: **Hardcore gamer by night, data wrangler by day.**
 
 ---
